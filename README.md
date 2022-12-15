@@ -1,3 +1,6 @@
+This is a repo containing my make-it-work-first-make-it-pretty-second solutions that never get to the second part
+
+
 # advent-of-code-2022
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [fouksf][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
